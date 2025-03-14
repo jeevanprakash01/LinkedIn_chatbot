@@ -23,8 +23,8 @@ This script will:
 
 ✅ Generate responses using OpenAI LLM
 
-ARCHITECTURE
-open the 
+
+
 
 
 
