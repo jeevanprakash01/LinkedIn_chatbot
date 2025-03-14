@@ -5,14 +5,11 @@
 🌱 I’m currently learning AI...
 💞️ I’m looking to collaborate on live projects...
 
-create a virtual environment 
-Install requirement.txt
+Create a Python Virtual Environment: conda create -p venv python==3.10 -y
 
-Run the following command in the Command prompt 
+Activate the Python Virtual Environment: source venv/bin/activate
 
-*** conda create -p myenv python==3.12 -y ***
-
-*** pip install -r requirements.txt ***
+Install requirement.txt using pip : pip install -r requirements.txt
 
 
 This script will:
