@@ -14,8 +14,6 @@ Install requirement.txt using pip : pip install -r requirements.txt
 
 This script will:
 
-✅ Fetch LinkedIn about company & people section
-
 ✅ Use LangChain to process queries
 
 ✅ Generate responses using OpenAI LLM
